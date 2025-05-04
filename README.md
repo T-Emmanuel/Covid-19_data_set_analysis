@@ -8,4 +8,4 @@ The dataset contains detailed updates on the covid-19 pandemic status of several
 
 # TOOLS
 - POWER QUERY - data cleaning/ preparation
-- POWER BI - interactive dashboard creation
+- POWER BI - interactive dashboard report.
